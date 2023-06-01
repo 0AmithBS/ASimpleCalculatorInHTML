@@ -1,6 +1,7 @@
+
+
 This repository contains a simple yet powerful calculator application built using HTML, CSS, and JavaScript by AmithBS. The calculator is designed to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
-The calculator has a user-friendly interface that allows users to enter numbers and perform calculations with ease. The application also supports keyboard input, allowing users to enter numbers and perform calculations using their keyboard.
 
 The HTML calculator is built using modern web technologies and is responsive, meaning it can be used on various devices such as desktops, laptops, tablets, and mobile phones. It is also compatible with different web browsers such as Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
 
