@@ -1,6 +1,4 @@
-NOTE: If you try to access the website without downloading the files the website would be empty.
-
-WEBSITE LINK: http://127.0.0.1:3000/index.html
+WEBSITE LINK: https://asimplecalculatorinhtml.mxg1.repl.co/
 
 This repository contains a simple yet powerful calculator application built using HTML, CSS, and JavaScript by AmithBS. The calculator is designed to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
