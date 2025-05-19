@@ -1,5 +1,3 @@
-WEBSITE LINK: https://asimplecalculatorinhtml.mxg1.repl.co/
-
 This repository contains a simple yet powerful calculator application built using HTML, CSS, and JavaScript by AmithBS. The calculator is designed to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
 
